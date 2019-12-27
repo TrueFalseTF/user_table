@@ -1,0 +1,51 @@
+body {
+    min-width: 780px;
+}
+
+.product_table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+    
+}
+
+caption {
+    caption-side: top;
+    text-align: center;
+}
+
+.button {
+    width: 26px;
+    height: 30px;
+}
+
+.basket {
+    position: absolute;    
+    top: 10px;
+    left: 10px;
+    width: min-content;
+    border: 2px solid #009999;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+}
+
+.add_users {
+    margin-left: 5%;
+}
+
+.sorted {
+    margin-right: 5%;
+    float: right;
+}
+
+ul {
+    text-align: center;
+}
+li {
+    display: inline;
+}
